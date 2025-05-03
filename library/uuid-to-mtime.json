@@ -2963,5 +2963,15 @@
     "asset": 1746309612703,
     "meta": 1746309616017,
     "relativePath": "scripts\\loadtextanimation.js"
+  },
+  "dc5124b0-a922-4dde-9f4d-7666e9eb943e": {
+    "asset": 1746310438300,
+    "meta": 1746310438306,
+    "relativePath": "scenes\\fenbushimap.fire"
+  },
+  "6e84b762-cfad-47d5-a85a-0cccfc53583d": {
+    "asset": 1746310298604,
+    "meta": 1746310298626,
+    "relativePath": "img\\fenbushimap.png"
   }
 }
