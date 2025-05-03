@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f7f51e08-d67e-41fd-b616-cb39e5db755c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2167,
+  "height": 1734,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章12-半月翎羽-分享海报banner_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "c2b9d23c-c255-4f10-8984-20f772ab6780",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f7f51e08-d67e-41fd-b616-cb39e5db755c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2167,
+      "height": 1734,
+      "rawWidth": 2167,
+      "rawHeight": 1734,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

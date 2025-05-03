@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6a315e3f-6d4c-4249-9da7-323d44498cc4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3000,
+  "height": 5334,
+  "platformSettings": {},
+  "subMetas": {
+    "积分兑换商店-特殊道具_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "5c4df70d-0be3-414f-b6db-a24851b0001b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6a315e3f-6d4c-4249-9da7-323d44498cc4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3000,
+      "height": 5334,
+      "rawWidth": 3000,
+      "rawHeight": 5334,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

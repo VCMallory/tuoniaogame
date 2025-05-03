@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b47fb6ce-7db3-4b70-bab4-16091e79f800",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2167,
+  "height": 1734,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章5-偷蛋传奇-分享海报banner_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "47d56011-aa63-4ebf-a1e4-59095326f933",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b47fb6ce-7db3-4b70-bab4-16091e79f800",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2167,
+      "height": 1734,
+      "rawWidth": 2167,
+      "rawHeight": 1734,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

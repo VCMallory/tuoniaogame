@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c8045854-a0a8-40c4-8108-d192f5f20ee5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2783,
+  "height": 3113,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章14-季风鸵农-分享海报": {
+      "ver": "1.0.6",
+      "uuid": "78eb5485-a634-4e30-8b6b-9bebdf0e27bc",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c8045854-a0a8-40c4-8108-d192f5f20ee5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 56.5,
+      "offsetY": -38,
+      "trimX": 408,
+      "trimY": 111,
+      "width": 2080,
+      "height": 2967,
+      "rawWidth": 2783,
+      "rawHeight": 3113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

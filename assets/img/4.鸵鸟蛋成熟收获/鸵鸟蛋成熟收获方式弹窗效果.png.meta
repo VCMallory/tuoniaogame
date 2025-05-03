@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "17f585b3-a863-4bdc-ae4b-ae46671736d5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1591,
+  "height": 2051,
+  "platformSettings": {},
+  "subMetas": {
+    "鸵鸟蛋成熟收获方式弹窗效果": {
+      "ver": "1.0.6",
+      "uuid": "9ac0d6ad-4f32-46af-b7a7-40a21dcf8a33",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "17f585b3-a863-4bdc-ae4b-ae46671736d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1591,
+      "height": 2051,
+      "rawWidth": 1591,
+      "rawHeight": 2051,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

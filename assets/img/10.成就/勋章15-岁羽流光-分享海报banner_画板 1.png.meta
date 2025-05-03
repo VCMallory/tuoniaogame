@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a40e6802-08c8-404a-8e1e-fbfb3d9cc57b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2167,
+  "height": 1734,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章15-岁羽流光-分享海报banner_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "9926c3ab-5378-4982-a660-b8fb67a16b00",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a40e6802-08c8-404a-8e1e-fbfb3d9cc57b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2167,
+      "height": 1734,
+      "rawWidth": 2167,
+      "rawHeight": 1734,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

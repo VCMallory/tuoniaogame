@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e19ba025-a332-4b79-9d2b-80b9a5171d43",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2783,
+  "height": 3113,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章3-偷蛋高手-分享海报": {
+      "ver": "1.0.6",
+      "uuid": "a74a825e-b2ed-479e-bd36-840806addf16",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e19ba025-a332-4b79-9d2b-80b9a5171d43",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 56.5,
+      "offsetY": -38,
+      "trimX": 408,
+      "trimY": 111,
+      "width": 2080,
+      "height": 2967,
+      "rawWidth": 2783,
+      "rawHeight": 3113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

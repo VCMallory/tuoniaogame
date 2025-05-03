@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0410a6ee-b38c-4a07-95d4-5f87505adbea",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 636,
+  "height": 637,
+  "platformSettings": {},
+  "subMetas": {
+    "每日签到-23-奖励获得": {
+      "ver": "1.0.6",
+      "uuid": "25de5eb1-5061-4846-89de-456d0ee70dc3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0410a6ee-b38c-4a07-95d4-5f87505adbea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 636,
+      "height": 636,
+      "rawWidth": 636,
+      "rawHeight": 637,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

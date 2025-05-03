@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b198e7a4-d7c4-4d4e-8632-97f903b4ac3d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 755,
+  "height": 753,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章15-岁羽流光-未获得": {
+      "ver": "1.0.6",
+      "uuid": "f476deaf-70cd-49b1-bb35-ad46cace1a45",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b198e7a4-d7c4-4d4e-8632-97f903b4ac3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 15,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 754,
+      "height": 723,
+      "rawWidth": 755,
+      "rawHeight": 753,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

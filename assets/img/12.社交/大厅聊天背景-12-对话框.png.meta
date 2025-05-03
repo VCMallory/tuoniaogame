@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "954c8bb5-486f-46b8-99ed-f92950179c05",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1028,
+  "height": 267,
+  "platformSettings": {},
+  "subMetas": {
+    "大厅聊天背景-12-对话框": {
+      "ver": "1.0.6",
+      "uuid": "08f1cecb-401b-4e17-8725-2aa9c2a423d5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "954c8bb5-486f-46b8-99ed-f92950179c05",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1028,
+      "height": 267,
+      "rawWidth": 1028,
+      "rawHeight": 267,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

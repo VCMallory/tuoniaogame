@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ecdb6db8-245f-44a9-a17a-562b4c5beb7e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1248,
+  "height": 193,
+  "platformSettings": {},
+  "subMetas": {
+    "鸵鸟蛋成熟收获-9": {
+      "ver": "1.0.6",
+      "uuid": "3fe9abfd-4b86-4820-9709-32564d3d6751",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ecdb6db8-245f-44a9-a17a-562b4c5beb7e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1248,
+      "height": 193,
+      "rawWidth": 1248,
+      "rawHeight": 193,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

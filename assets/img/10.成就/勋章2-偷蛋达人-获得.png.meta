@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0c0a313e-053e-4db0-83b8-2a6290c1e253",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 817,
+  "height": 760,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章2-偷蛋达人-获得": {
+      "ver": "1.0.6",
+      "uuid": "21c3d555-2d1c-46c1-bb8e-77dc38688b62",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0c0a313e-053e-4db0-83b8-2a6290c1e253",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 817,
+      "height": 760,
+      "rawWidth": 817,
+      "rawHeight": 760,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

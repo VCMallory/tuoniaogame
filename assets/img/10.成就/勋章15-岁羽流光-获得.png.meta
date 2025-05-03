@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bd60b2d7-18a8-4238-b0ee-2040241c15c2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 755,
+  "height": 753,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章15-岁羽流光-获得": {
+      "ver": "1.0.6",
+      "uuid": "0cca10b3-4f4a-43f4-bdbb-eb1bbeeee460",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bd60b2d7-18a8-4238-b0ee-2040241c15c2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 15,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 754,
+      "height": 723,
+      "rawWidth": 755,
+      "rawHeight": 753,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

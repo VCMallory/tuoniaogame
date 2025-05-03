@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e84f80b1-07d9-40cb-99c0-b3b353cb743f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 745,
+  "height": 769,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章8-社交先锋-获得": {
+      "ver": "1.0.6",
+      "uuid": "5ebf84ad-1129-4ac5-92e1-9acd872f8948",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e84f80b1-07d9-40cb-99c0-b3b353cb743f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 6,
+      "trimX": 0,
+      "trimY": 8,
+      "width": 745,
+      "height": 741,
+      "rawWidth": 745,
+      "rawHeight": 769,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

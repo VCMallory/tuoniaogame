@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ab6bf78a-c0c0-41ae-837c-198c2c314db1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1050,
+  "height": 615,
+  "platformSettings": {},
+  "subMetas": {
+    "每日签到-21-规则": {
+      "ver": "1.0.6",
+      "uuid": "4b62a32f-2a02-4ac8-a965-8e45e59e9eea",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ab6bf78a-c0c0-41ae-837c-198c2c314db1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 19,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1050,
+      "height": 577,
+      "rawWidth": 1050,
+      "rawHeight": 615,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

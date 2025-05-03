@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2412849b-c4dd-4753-898d-de5847982893",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 817,
+  "height": 760,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章3-偷蛋高手-未获得": {
+      "ver": "1.0.6",
+      "uuid": "b0f0449d-68d2-4cdd-b7ea-b5ebc68ae355",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2412849b-c4dd-4753-898d-de5847982893",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 817,
+      "height": 760,
+      "rawWidth": 817,
+      "rawHeight": 760,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

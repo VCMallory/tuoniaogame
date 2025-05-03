@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "abcb4ae8-5140-47db-a87a-a462e0ee1980",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1632,
+  "height": 1500,
+  "platformSettings": {},
+  "subMetas": {
+    "积分兑换商店-13": {
+      "ver": "1.0.6",
+      "uuid": "3ed1d0d2-5e2b-4fd2-b1ee-6813299de287",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "abcb4ae8-5140-47db-a87a-a462e0ee1980",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 40,
+      "offsetY": 371,
+      "trimX": 592,
+      "trimY": 32,
+      "width": 528,
+      "height": 694,
+      "rawWidth": 1632,
+      "rawHeight": 1500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

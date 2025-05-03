@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c55d29ab-9e73-49d7-b3bc-3f3aeef002d4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2167,
+  "height": 1734,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章8-社交先锋-分享海报banner_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "8d2cc48d-64d9-4502-9158-2f0bbc18d0f3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c55d29ab-9e73-49d7-b3bc-3f3aeef002d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2167,
+      "height": 1734,
+      "rawWidth": 2167,
+      "rawHeight": 1734,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

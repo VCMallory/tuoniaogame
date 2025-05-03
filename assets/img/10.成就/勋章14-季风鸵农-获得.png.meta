@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ca4a1557-5bce-43ad-bd4a-96f9ab2efda3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 779,
+  "height": 771,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章14-季风鸵农-获得": {
+      "ver": "1.0.6",
+      "uuid": "0f5af51f-b23e-429a-8f6b-2a34becdf33a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ca4a1557-5bce-43ad-bd4a-96f9ab2efda3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 11.5,
+      "offsetY": 7,
+      "trimX": 24,
+      "trimY": 17,
+      "width": 754,
+      "height": 723,
+      "rawWidth": 779,
+      "rawHeight": 771,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

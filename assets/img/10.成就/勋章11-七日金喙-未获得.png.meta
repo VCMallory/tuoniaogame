@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4c982ff0-d252-4bee-9df0-673905517f94",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 755,
+  "height": 753,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章11-七日金喙-未获得": {
+      "ver": "1.0.6",
+      "uuid": "19b1e827-f852-43e0-997d-e5b7b5224a61",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4c982ff0-d252-4bee-9df0-673905517f94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 15,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 754,
+      "height": 723,
+      "rawWidth": 755,
+      "rawHeight": 753,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

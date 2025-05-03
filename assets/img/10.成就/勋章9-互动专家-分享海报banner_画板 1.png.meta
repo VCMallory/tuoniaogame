@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "40883a91-cba5-4d8b-8391-043409574aff",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2167,
+  "height": 1734,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章9-互动专家-分享海报banner_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "9ef7a924-4f36-4501-ae92-3b3d3a13396b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "40883a91-cba5-4d8b-8391-043409574aff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2167,
+      "height": 1734,
+      "rawWidth": 2167,
+      "rawHeight": 1734,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

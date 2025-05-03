@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7b8bdad3-0fe5-49cc-85af-945ed770781c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 755,
+  "height": 753,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章13-鸵月粮草-未获得": {
+      "ver": "1.0.6",
+      "uuid": "44f51212-048c-47c8-9d41-17150a904a8c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7b8bdad3-0fe5-49cc-85af-945ed770781c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 15,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 754,
+      "height": 723,
+      "rawWidth": 755,
+      "rawHeight": 753,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

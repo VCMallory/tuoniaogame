@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8a071186-dc3f-4847-94d9-f70ea36a1105",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 745,
+  "height": 761,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章7-串门能手-未获得": {
+      "ver": "1.0.6",
+      "uuid": "55edb722-b727-45e5-a56c-f8e766370102",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8a071186-dc3f-4847-94d9-f70ea36a1105",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 10,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 745,
+      "height": 741,
+      "rawWidth": 745,
+      "rawHeight": 761,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

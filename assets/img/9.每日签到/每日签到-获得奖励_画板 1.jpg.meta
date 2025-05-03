@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "244871e0-133c-4995-bce8-7c24ff1b5483",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3000,
+  "height": 5334,
+  "platformSettings": {},
+  "subMetas": {
+    "每日签到-获得奖励_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "a44baf0c-9f61-4119-9445-b6833b14104c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "244871e0-133c-4995-bce8-7c24ff1b5483",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3000,
+      "height": 5334,
+      "rawWidth": 3000,
+      "rawHeight": 5334,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7fbc5c66-6bef-4e5b-b846-e6a12067d3f4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 187,
+  "height": 197,
+  "platformSettings": {},
+  "subMetas": {
+    "添加好友背景-50-信息": {
+      "ver": "1.0.6",
+      "uuid": "b9892d42-649d-4b04-85fb-97144066e5ff",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7fbc5c66-6bef-4e5b-b846-e6a12067d3f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 186,
+      "height": 196,
+      "rawWidth": 187,
+      "rawHeight": 197,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

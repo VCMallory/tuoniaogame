@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e2634688-c2dc-4ad2-879b-fea318ce3bb9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2783,
+  "height": 3113,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章4-蛋界神偷-分享海报": {
+      "ver": "1.0.6",
+      "uuid": "1b0fe032-34df-439a-a2d0-8a0aefe981d1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e2634688-c2dc-4ad2-879b-fea318ce3bb9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 56.5,
+      "offsetY": -38,
+      "trimX": 408,
+      "trimY": 111,
+      "width": 2080,
+      "height": 2967,
+      "rawWidth": 2783,
+      "rawHeight": 3113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1a1c3784-bf99-4187-bf45-0d2e14819c7c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1552,
+  "height": 1342,
+  "platformSettings": {},
+  "subMetas": {
+    "鸵鸟蛋成熟收获-14-自行售卖定价": {
+      "ver": "1.0.6",
+      "uuid": "6cfb027a-1c72-45fe-8377-8a50b3fd0069",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1a1c3784-bf99-4187-bf45-0d2e14819c7c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1552,
+      "height": 1342,
+      "rawWidth": 1552,
+      "rawHeight": 1342,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

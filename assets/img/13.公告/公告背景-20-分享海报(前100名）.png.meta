@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "cc7bf730-9485-4443-a2bb-3b8eddaf3c26",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2490,
+  "height": 3149,
+  "platformSettings": {},
+  "subMetas": {
+    "公告背景-20-分享海报(前100名）": {
+      "ver": "1.0.6",
+      "uuid": "68a17150-1ac2-4fa0-836d-d78de719809a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "cc7bf730-9485-4443-a2bb-3b8eddaf3c26",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6,
+      "offsetY": -3,
+      "trimX": 92,
+      "trimY": 6,
+      "width": 2318,
+      "height": 3143,
+      "rawWidth": 2490,
+      "rawHeight": 3149,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

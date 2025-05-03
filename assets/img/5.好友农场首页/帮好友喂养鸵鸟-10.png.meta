@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "01426e55-e19a-4ea3-bfb8-19a9c76da351",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 262,
+  "height": 194,
+  "platformSettings": {},
+  "subMetas": {
+    "帮好友喂养鸵鸟-10": {
+      "ver": "1.0.6",
+      "uuid": "4d1a4fda-37b2-4e73-9686-aadc20cf69a2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "01426e55-e19a-4ea3-bfb8-19a9c76da351",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 33.5,
+      "trimX": 5,
+      "trimY": 13,
+      "width": 256,
+      "height": 101,
+      "rawWidth": 262,
+      "rawHeight": 194,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9bd032d7-a1f8-4820-b54b-0e8575ad5074",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 944,
+  "height": 1862,
+  "platformSettings": {},
+  "subMetas": {
+    "succulencehelloniao": {
+      "ver": "1.0.6",
+      "uuid": "da034db0-3145-46d0-9f76-934bc655f580",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9bd032d7-a1f8-4820-b54b-0e8575ad5074",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 14,
+      "offsetY": 0,
+      "trimX": 41,
+      "trimY": 0,
+      "width": 890,
+      "height": 1862,
+      "rawWidth": 944,
+      "rawHeight": 1862,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

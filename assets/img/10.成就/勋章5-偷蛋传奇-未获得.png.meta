@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "6697a361-364c-484e-83ef-85cf302ac692",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 824,
+  "height": 760,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章5-偷蛋传奇-未获得": {
+      "ver": "1.0.6",
+      "uuid": "1621134d-d881-4575-8ff3-2637b7121d55",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "6697a361-364c-484e-83ef-85cf302ac692",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3.5,
+      "offsetY": 0,
+      "trimX": 7,
+      "trimY": 0,
+      "width": 817,
+      "height": 760,
+      "rawWidth": 824,
+      "rawHeight": 760,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

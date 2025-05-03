@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9b116dd3-3889-4871-8663-9d8d85da62f6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2783,
+  "height": 3113,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章1-偷蛋新手-分享海报": {
+      "ver": "1.0.6",
+      "uuid": "d3d0ca5b-6b87-4476-9b09-dddabf92e20a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9b116dd3-3889-4871-8663-9d8d85da62f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 56.5,
+      "offsetY": -38,
+      "trimX": 408,
+      "trimY": 111,
+      "width": 2080,
+      "height": 2967,
+      "rawWidth": 2783,
+      "rawHeight": 3113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

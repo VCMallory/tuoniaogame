@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "56701bd1-cd71-4fd9-9c4d-56f0653e7bc8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 745,
+  "height": 761,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章6-友谊萌芽-获得": {
+      "ver": "1.0.6",
+      "uuid": "ecbf457c-4801-4b6b-b469-a98c8e3d2391",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "56701bd1-cd71-4fd9-9c4d-56f0653e7bc8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 10,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 745,
+      "height": 741,
+      "rawWidth": 745,
+      "rawHeight": 761,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

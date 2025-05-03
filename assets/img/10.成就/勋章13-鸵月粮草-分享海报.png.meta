@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "47a5b70a-01f5-4903-9421-4e0becdbdacb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2783,
+  "height": 3113,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章13-鸵月粮草-分享海报": {
+      "ver": "1.0.6",
+      "uuid": "09b11b4d-016c-432f-a7c5-775c85263a86",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "47a5b70a-01f5-4903-9421-4e0becdbdacb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 56.5,
+      "offsetY": -38,
+      "trimX": 408,
+      "trimY": 111,
+      "width": 2080,
+      "height": 2967,
+      "rawWidth": 2783,
+      "rawHeight": 3113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

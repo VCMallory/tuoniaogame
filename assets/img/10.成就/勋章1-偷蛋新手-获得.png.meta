@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c0df74d4-fc46-435e-8ec4-5424c2b36ab6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 817,
+  "height": 760,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章1-偷蛋新手-获得": {
+      "ver": "1.0.6",
+      "uuid": "112f525a-bb23-49c8-8a30-8b8aac9d938c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c0df74d4-fc46-435e-8ec4-5424c2b36ab6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 817,
+      "height": 760,
+      "rawWidth": 817,
+      "rawHeight": 760,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

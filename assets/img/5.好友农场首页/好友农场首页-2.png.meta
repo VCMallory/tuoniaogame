@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "489c88dc-fb2c-4c49-a0eb-abcffcc5dc62",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 297,
+  "height": 374,
+  "platformSettings": {},
+  "subMetas": {
+    "好友农场首页-2": {
+      "ver": "1.0.6",
+      "uuid": "6ddebb51-3bd3-42f9-b972-e4a4a5583819",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "489c88dc-fb2c-4c49-a0eb-abcffcc5dc62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 297,
+      "height": 374,
+      "rawWidth": 297,
+      "rawHeight": 374,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

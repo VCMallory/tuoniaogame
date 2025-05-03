@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "7faa70ed-c47a-4616-b2a1-57235cf96c20",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2167,
+  "height": 1734,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章2-偷蛋达人-分享海报banner_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "4a658ba7-0c3d-4d68-8a03-23a6ab7ce795",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "7faa70ed-c47a-4616-b2a1-57235cf96c20",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2167,
+      "height": 1734,
+      "rawWidth": 2167,
+      "rawHeight": 1734,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

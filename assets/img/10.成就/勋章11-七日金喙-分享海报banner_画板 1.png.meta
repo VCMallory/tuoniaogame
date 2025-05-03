@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "71251a6e-cfb4-4bc5-8794-2018f2591f9d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2167,
+  "height": 1734,
+  "platformSettings": {},
+  "subMetas": {
+    "勋章11-七日金喙-分享海报banner_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "c85f1e2f-967f-4d27-9a28-f6db17e31402",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "71251a6e-cfb4-4bc5-8794-2018f2591f9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2167,
+      "height": 1734,
+      "rawWidth": 2167,
+      "rawHeight": 1734,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

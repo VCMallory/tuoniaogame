@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e1a65eac-7d76-4d86-8682-bf72a32558ae",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2336,
+  "height": 3575,
+  "platformSettings": {},
+  "subMetas": {
+    "鸵鸟蛋成熟收获-12-鸵鸟蛋收获方式规则": {
+      "ver": "1.0.6",
+      "uuid": "a664c2d5-025a-462f-a476-57dd47bd2c59",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e1a65eac-7d76-4d86-8682-bf72a32558ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2336,
+      "height": 3575,
+      "rawWidth": 2336,
+      "rawHeight": 3575,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

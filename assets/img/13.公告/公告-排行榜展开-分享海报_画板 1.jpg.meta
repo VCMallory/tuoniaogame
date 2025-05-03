@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a48f7e2f-a866-4dfc-b4ef-fb434563386b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3000,
+  "height": 5334,
+  "platformSettings": {},
+  "subMetas": {
+    "公告-排行榜展开-分享海报_画板 1": {
+      "ver": "1.0.6",
+      "uuid": "18c5e118-4062-4f44-843e-f5ca9bc447fb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a48f7e2f-a866-4dfc-b4ef-fb434563386b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3000,
+      "height": 5334,
+      "rawWidth": 3000,
+      "rawHeight": 5334,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
