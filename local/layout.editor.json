@@ -46,7 +46,7 @@
                 "width": 904.6375122070312,
                 "height": 353.3500061035156,
                 "type": "panel",
-                "active": 0,
+                "active": 1,
                 "children": [
                   "scene",
                   "game-window"
@@ -100,6 +100,12 @@
       "y": 132,
       "width": 516,
       "height": 540
+    },
+    "preferences": {
+      "x": 480,
+      "y": 132,
+      "width": 600,
+      "height": 564
     }
   },
   "panelLabelWidth": {}

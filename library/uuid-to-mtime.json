@@ -505,13 +505,13 @@
     "relativePath": "scenes"
   },
   "bcddc77a-aae2-49c9-8876-2fc7e7c0b6bb": {
-    "asset": 1746306847962,
-    "meta": 1746306847971,
+    "asset": 1746309102622,
+    "meta": 1746309102633,
     "relativePath": "scenes\\index.fire"
   },
   "4da9d8d0-865b-4be5-a208-0c1aa418577b": {
-    "asset": 1746306364400,
-    "meta": 1746306435498,
+    "asset": 1746306670434,
+    "meta": 1746308963494,
     "relativePath": "img"
   },
   "a2c63c2e-25ed-48b5-b811-c1080f2e99b6": {
@@ -2953,5 +2953,15 @@
     "asset": 1746303921802,
     "meta": 1746303947843,
     "relativePath": "img\\loadimg4.png"
+  },
+  "d35f06d1-7a07-4731-8ab8-de986528768c": {
+    "asset": 1746306993817,
+    "meta": 1746308963496,
+    "relativePath": "scripts"
+  },
+  "aa3cb457-ff57-4c85-b468-94a331da5f92": {
+    "asset": 1746309612703,
+    "meta": 1746309616017,
+    "relativePath": "scripts\\loadtextanimation.js"
   }
 }
