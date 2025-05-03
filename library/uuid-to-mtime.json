@@ -505,13 +505,13 @@
     "relativePath": "scenes"
   },
   "bcddc77a-aae2-49c9-8876-2fc7e7c0b6bb": {
-    "asset": 1746298541431,
-    "meta": 1746298541441,
+    "asset": 1746306618700,
+    "meta": 1746306618707,
     "relativePath": "scenes\\index.fire"
   },
   "4da9d8d0-865b-4be5-a208-0c1aa418577b": {
-    "asset": 1746297422562,
-    "meta": 1746297422565,
+    "asset": 1746306364400,
+    "meta": 1746306435498,
     "relativePath": "img"
   },
   "a2c63c2e-25ed-48b5-b811-c1080f2e99b6": {
@@ -2905,8 +2905,8 @@
     "relativePath": "img\\10.成就\\成就背景-9.png"
   },
   "e2e592d0-5098-4f96-b4b9-d44175196f25": {
-    "asset": 1746299518814,
-    "meta": 1746299518816,
+    "asset": 1746299529456,
+    "meta": 1746305014314,
     "relativePath": "ttf"
   },
   "0a2fe5db-3724-4c7c-884b-ba9df93fcbe3": {
@@ -2943,5 +2943,15 @@
     "asset": 1746299529437,
     "meta": 1746299529615,
     "relativePath": "ttf\\ResourceHanRoundedCN-ExtraLight.ttf"
+  },
+  "b15056d4-e5f3-4777-ac55-1c7e81478da0": {
+    "asset": 1746303865175,
+    "meta": 1746303880191,
+    "relativePath": "img\\loadimg3.png"
+  },
+  "811f71c7-06ad-4b0c-88e0-d882c1eea04f": {
+    "asset": 1746303921802,
+    "meta": 1746303947843,
+    "relativePath": "img\\loadimg4.png"
   }
 }
