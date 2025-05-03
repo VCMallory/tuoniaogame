@@ -46,7 +46,7 @@
                 "width": 904.6375122070312,
                 "height": 353.3500061035156,
                 "type": "panel",
-                "active": 1,
+                "active": 0,
                 "children": [
                   "scene",
                   "game-window"
