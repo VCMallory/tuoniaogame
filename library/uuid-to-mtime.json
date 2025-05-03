@@ -2903,5 +2903,45 @@
     "asset": 1746297442035,
     "meta": 1746297460819,
     "relativePath": "img\\10.成就\\成就背景-9.png"
+  },
+  "e2e592d0-5098-4f96-b4b9-d44175196f25": {
+    "asset": 1746299518814,
+    "meta": 1746299518816,
+    "relativePath": "ttf"
+  },
+  "0a2fe5db-3724-4c7c-884b-ba9df93fcbe3": {
+    "asset": 1746299529418,
+    "meta": 1746299529479,
+    "relativePath": "ttf\\ResourceHanRoundedCN-Heavy.ttf"
+  },
+  "d6fd213e-9c19-42e6-ab81-f8ed37e2b48e": {
+    "asset": 1746299529423,
+    "meta": 1746299529499,
+    "relativePath": "ttf\\ResourceHanRoundedCN-Bold.ttf"
+  },
+  "89233322-1a8d-422c-8869-738d7d56d261": {
+    "asset": 1746299529430,
+    "meta": 1746299529519,
+    "relativePath": "ttf\\ResourceHanRoundedCN-Medium.ttf"
+  },
+  "6b61266b-7145-4a1c-95c1-e8c1986dbb41": {
+    "asset": 1746299529432,
+    "meta": 1746299529552,
+    "relativePath": "ttf\\ResourceHanRoundedCN-Regular.ttf"
+  },
+  "d76bd42d-d414-4114-b833-6c3786ae365a": {
+    "asset": 1746299529433,
+    "meta": 1746299529575,
+    "relativePath": "ttf\\ResourceHanRoundedCN-Normal.ttf"
+  },
+  "53841fd2-765b-4110-9e83-1c9abff2e48a": {
+    "asset": 1746299529434,
+    "meta": 1746299529595,
+    "relativePath": "ttf\\ResourceHanRoundedCN-Light.ttf"
+  },
+  "92fb7f97-8d89-4cf0-9288-9cb043dbdf66": {
+    "asset": 1746299529437,
+    "meta": 1746299529615,
+    "relativePath": "ttf\\ResourceHanRoundedCN-ExtraLight.ttf"
   }
 }
