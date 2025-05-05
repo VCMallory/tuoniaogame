@@ -2964,19 +2964,44 @@
     "meta": 1746309616017,
     "relativePath": "scripts\\loadtextanimation.js"
   },
-  "dc5124b0-a922-4dde-9f4d-7666e9eb943e": {
-    "asset": 1746310438300,
-    "meta": 1746310438306,
-    "relativePath": "scenes\\fenbushimap.fire"
-  },
   "6e84b762-cfad-47d5-a85a-0cccfc53583d": {
     "asset": 1746310298604,
     "meta": 1746310298626,
     "relativePath": "img\\fenbushimap.png"
   },
-  "1c3ef914-5667-4f5a-a11e-866f6734b9e8": {
-    "asset": 1746374854926,
-    "meta": 1746374861854,
-    "relativePath": "scenes\\home.fire"
+  "c58b3f49-a588-4962-886c-bae6e2ce9596": {
+    "asset": 1746441774029,
+    "meta": 1746441774031,
+    "relativePath": "audio"
+  },
+  "f070b37b-bb07-4504-82a1-64dbfcc535ec": {
+    "asset": 1746442072995,
+    "meta": 1746442074300,
+    "relativePath": "audio\\狗叫 (1)_爱给网_aigei_com.mp3"
+  },
+  "1c0de026-4ce0-4440-84c7-f6c46e08ab03": {
+    "asset": 1746442072996,
+    "meta": 1746442074305,
+    "relativePath": "audio\\手摇绞盘手动齿轮-链条和滑轮_爱给网_aigei_com.mp3"
+  },
+  "89619924-c13a-488f-93e8-13578cdb6de8": {
+    "asset": 1746442072996,
+    "meta": 1746442074309,
+    "relativePath": "audio\\选择，确认.mp3"
+  },
+  "6d25fb3a-5604-4580-a983-58454f8b2e99": {
+    "asset": 1746442072998,
+    "meta": 1746442074317,
+    "relativePath": "audio\\清晰成就音效 - 完美钟声 - 成功铃铛声_爱给.mp3"
+  },
+  "877a22aa-3769-4f3b-950e-53d9d612033b": {
+    "asset": 1746442073003,
+    "meta": 1746442074331,
+    "relativePath": "audio\\庆祝胜利音效_爱给网_aigei_com.wav"
+  },
+  "941bab09-e977-4771-9bd9-bac8216dc138": {
+    "asset": 1746442073009,
+    "meta": 1746442074336,
+    "relativePath": "audio\\春日活力 轻松俏皮_爱给网_aigei_com.mp3"
   }
 }
