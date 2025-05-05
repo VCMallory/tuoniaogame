@@ -86,14 +86,15 @@
         "inspector",
         "cocos-services"
       ]
-    }
+    },
+    "window-1746470226961": {}
   },
   "panels": {
     "builder": {
       "x": 508,
       "y": 32,
       "width": 516,
-      "height": 739
+      "height": 740
     },
     "sprite-editor": {
       "x": 508,

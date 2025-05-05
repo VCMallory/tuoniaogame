@@ -1,7 +1,7 @@
 {
   "title": "tuoniaogame",
   "packageName": "org.cocos2d.demo",
-  "startScene": "bcddc77a-aae2-49c9-8876-2fc7e7c0b6bb",
+  "startScene": "67262b02-964f-4629-b4b8-d03c6f3ad758",
   "excludeScenes": [],
   "orientation": {
     "landscapeRight": true,
