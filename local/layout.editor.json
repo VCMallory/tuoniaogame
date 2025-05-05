@@ -86,8 +86,7 @@
         "inspector",
         "cocos-services"
       ]
-    },
-    " load-media-worker": {}
+    }
   },
   "panels": {
     "builder": {

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a086a6dc-0226-4f19-a465-8b68ed9b5d04",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1684,
+  "height": 757,
+  "platformSettings": {},
+  "subMetas": {
+    "delefriendbg": {
+      "ver": "1.0.6",
+      "uuid": "604249df-d479-4c5b-8876-f4589fc4810a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a086a6dc-0226-4f19-a465-8b68ed9b5d04",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1684,
+      "height": 757,
+      "rawWidth": 1684,
+      "rawHeight": 757,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
