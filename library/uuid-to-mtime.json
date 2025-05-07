@@ -3300,14 +3300,14 @@
     "relativePath": "scenes\\index0.fire"
   },
   "a31bff69-d625-4f1a-9f76-90cdfc52579f": {
-    "asset": 1746658905031,
-    "meta": 1746658905042,
+    "asset": 1746659669962,
+    "meta": 1746659669977,
     "relativePath": "scenes\\index1.fire"
   },
   "4b85ec9c-d94a-42d3-89f7-86e20340e080": {
     "asset": 1746657575777,
     "meta": 1746657579389,
-    "relativePath": "scripts\\index0.js"
+    "relativePath": "scripts\\index0\\index0.js"
   },
   "83f6703a-06c5-4cf2-9b5d-7309862cdb2a": {
     "asset": 1746658015053,
@@ -3343,5 +3343,20 @@
     "asset": 1746658741642,
     "meta": 1746658741856,
     "relativePath": "myimg\\index1\\index2_butt4.png"
+  },
+  "dfd4ef2e-97f1-4547-ace8-521f5f2a69b1": {
+    "asset": 1746659116117,
+    "meta": 1746659116120,
+    "relativePath": "scripts\\index0"
+  },
+  "b133cad7-70a9-47c8-ae51-51502d1849be": {
+    "asset": 1746659133195,
+    "meta": 1746659133198,
+    "relativePath": "scripts\\index1"
+  },
+  "7be6ae35-29f7-4e55-84fe-412d823e2bcc": {
+    "asset": 1746659473647,
+    "meta": 1746659475430,
+    "relativePath": "scripts\\index1\\AgreementCtrl.js"
   }
 }
