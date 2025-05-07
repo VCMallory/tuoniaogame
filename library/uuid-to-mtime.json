@@ -500,8 +500,8 @@
     "relativePath": "model\\primitives.fbx"
   },
   "f4d02be7-0031-475d-b628-bbd3572294ca": {
-    "asset": 1746441686889,
-    "meta": 1746446776388,
+    "asset": 1746453496399,
+    "meta": 1746656276902,
     "relativePath": "scenes"
   },
   "bcddc77a-aae2-49c9-8876-2fc7e7c0b6bb": {
@@ -510,8 +510,8 @@
     "relativePath": "scenes\\index.fire"
   },
   "4da9d8d0-865b-4be5-a208-0c1aa418577b": {
-    "asset": 1746444132737,
-    "meta": 1746446776386,
+    "asset": 1746562917424,
+    "meta": 1746656276899,
     "relativePath": "img"
   },
   "cebc03b9-1767-4998-9ad8-2185b2f76019": {
@@ -3278,5 +3278,70 @@
     "asset": 1746562917415,
     "meta": 1746562918004,
     "relativePath": "img\\sky.png"
+  },
+  "ef11f5a7-3ebc-4f99-a9b9-21d5a954d4bc": {
+    "asset": 1746656445590,
+    "meta": 1746656445592,
+    "relativePath": "myimg"
+  },
+  "93870e29-e660-42d6-9310-b58c25e05df7": {
+    "asset": 1746656459359,
+    "meta": 1746656459637,
+    "relativePath": "myimg\\index0\\index1.png"
+  },
+  "f6d9e08a-3fda-478d-8e8c-ea3d9c3cd362": {
+    "asset": 1746656459363,
+    "meta": 1746656459658,
+    "relativePath": "myimg\\index0\\index0.png"
+  },
+  "5d6926d5-5850-4421-a257-baad80c5f2f3": {
+    "asset": 1746657701426,
+    "meta": 1746657701440,
+    "relativePath": "scenes\\index0.fire"
+  },
+  "a31bff69-d625-4f1a-9f76-90cdfc52579f": {
+    "asset": 1746658905031,
+    "meta": 1746658905042,
+    "relativePath": "scenes\\index1.fire"
+  },
+  "4b85ec9c-d94a-42d3-89f7-86e20340e080": {
+    "asset": 1746657575777,
+    "meta": 1746657579389,
+    "relativePath": "scripts\\index0.js"
+  },
+  "83f6703a-06c5-4cf2-9b5d-7309862cdb2a": {
+    "asset": 1746658015053,
+    "meta": 1746658015170,
+    "relativePath": "myimg\\index1\\index2_butt1.png"
+  },
+  "e2a8a7a4-d3b5-41c9-8d4d-b3c78bbb6caf": {
+    "asset": 1746658015053,
+    "meta": 1746658015208,
+    "relativePath": "myimg\\index1\\index2_butt2.png"
+  },
+  "2c41a8b2-9775-49e3-b429-1fde3c8d58fa": {
+    "asset": 1746658015055,
+    "meta": 1746658015215,
+    "relativePath": "myimg\\index1\\index2.png"
+  },
+  "626d24d7-99cc-445d-9e77-51be6b79ea6c": {
+    "asset": 1746658449061,
+    "meta": 1746658449064,
+    "relativePath": "myimg\\index0"
+  },
+  "08f3050c-3918-422a-be48-17e3263d40f1": {
+    "asset": 1746658465172,
+    "meta": 1746658465174,
+    "relativePath": "myimg\\index1"
+  },
+  "6a8ee1ce-eeb4-4687-8d41-0c33ac0a5e52": {
+    "asset": 1746658483652,
+    "meta": 1746658483900,
+    "relativePath": "myimg\\index1\\index2_butt3.png"
+  },
+  "a950ca97-1322-4a80-8626-495c402a33a6": {
+    "asset": 1746658741642,
+    "meta": 1746658741856,
+    "relativePath": "myimg\\index1\\index2_butt4.png"
   }
 }
