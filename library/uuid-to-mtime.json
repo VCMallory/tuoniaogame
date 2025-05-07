@@ -3358,5 +3358,55 @@
     "asset": 1746659473647,
     "meta": 1746659475430,
     "relativePath": "scripts\\index1\\AgreementCtrl.js"
+  },
+  "f32dbf5c-0f39-4244-aaed-11ae3d3e3d9f": {
+    "asset": 1746661420015,
+    "meta": 1746661420033,
+    "relativePath": "scenes\\index2.fire"
+  },
+  "81a6003c-d0a8-4f27-81a9-c08fb14c6257": {
+    "asset": 1746660115166,
+    "meta": 1746660115169,
+    "relativePath": "myimg\\index2"
+  },
+  "30ea8658-ac7b-4677-addf-a2e905e3b20b": {
+    "asset": 1746660206123,
+    "meta": 1746660206244,
+    "relativePath": "myimg\\index2\\index2_1.png"
+  },
+  "479892ac-cd32-40af-8b41-299860970097": {
+    "asset": 1746660206124,
+    "meta": 1746660206277,
+    "relativePath": "myimg\\index2\\index2_4.png"
+  },
+  "7952be32-b4da-40f3-b534-5cefaf4797af": {
+    "asset": 1746660206128,
+    "meta": 1746660206352,
+    "relativePath": "myimg\\index2\\index2_0.png"
+  },
+  "9f556721-a3a0-4e36-9a0c-da3df3b83718": {
+    "asset": 1746660442977,
+    "meta": 1746660443027,
+    "relativePath": "myimg\\index2\\index2_2.png"
+  },
+  "c58657ba-1e9a-4987-b4a7-a07662dd8a63": {
+    "asset": 1746660442977,
+    "meta": 1746660443031,
+    "relativePath": "myimg\\index2\\index2_3.png"
+  },
+  "b63c1861-b22d-476b-b160-ea5b3b5bb731": {
+    "asset": 1746660925183,
+    "meta": 1746660925186,
+    "relativePath": "scripts\\index2"
+  },
+  "a6591678-6a27-4780-b57b-daebc3ed0a92": {
+    "asset": 1746660993154,
+    "meta": 1746660995529,
+    "relativePath": "scripts\\index2\\colorfonts.js"
+  },
+  "1452b8de-1195-4087-a6b5-733fd521a74e": {
+    "asset": 1746661360438,
+    "meta": 1746661372991,
+    "relativePath": "scripts\\index2\\retu.js"
   }
 }
