@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/scripts/index2/colorfonts":2,"./assets/scripts/loadtextanimation":1,"./assets/scripts/index2/retu":3},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/loadtextanimation.js"},{"deps":{},"path":"preview-scripts/assets/scripts/index2/colorfonts.js"},{"deps":{},"path":"preview-scripts/assets/scripts/index2/retu.js"}];
+var scripts = [{"deps":{"./assets/scripts/load/loadtextanimation":6,"./assets/scripts/rule/isshow":2,"./assets/scripts/rule/rule":1,"./assets/scripts/rule/isclose":3,"./assets/scripts/comm/retu":4,"./assets/scripts/comm/colorfonts":5},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/rule.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/isshow.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/isclose.js"},{"deps":{},"path":"preview-scripts/assets/scripts/comm/retu.js"},{"deps":{},"path":"preview-scripts/assets/scripts/comm/colorfonts.js"},{"deps":{},"path":"preview-scripts/assets/scripts/load/loadtextanimation.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 

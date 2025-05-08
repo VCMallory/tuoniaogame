@@ -10,9 +10,12 @@
                     };
                     function __define (exports, require, module) {
                         if (!nodeEnv) {__quick_compile_project__.registerModule(__filename, module);}
-require('./assets/scripts/index2/colorfonts');
-require('./assets/scripts/index2/retu');
-require('./assets/scripts/loadtextanimation');
+require('./assets/scripts/comm/colorfonts');
+require('./assets/scripts/comm/retu');
+require('./assets/scripts/load/loadtextanimation');
+require('./assets/scripts/rule/isclose');
+require('./assets/scripts/rule/isshow');
+require('./assets/scripts/rule/rule');
 
                     }
                     if (nodeEnv) {

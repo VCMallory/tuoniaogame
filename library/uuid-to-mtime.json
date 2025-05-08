@@ -967,7 +967,7 @@
   "aa3cb457-ff57-4c85-b468-94a331da5f92": {
     "asset": 1746309612703,
     "meta": 1746309616017,
-    "relativePath": "scripts\\loadtextanimation.js"
+    "relativePath": "scripts\\load\\loadtextanimation.js"
   },
   "6e84b762-cfad-47d5-a85a-0cccfc53583d": {
     "asset": 1746310298604,
@@ -3265,8 +3265,8 @@
     "relativePath": "img\\myfriengline.png"
   },
   "67262b02-964f-4629-b4b8-d03c6f3ad758": {
-    "asset": 1746663886429,
-    "meta": 1746663886498,
+    "asset": 1746665680161,
+    "meta": 1746665680180,
     "relativePath": "scenes\\home.fire"
   },
   "3638f805-65aa-44e9-b859-71bf9f1674a9": {
@@ -3290,39 +3290,29 @@
     "relativePath": "myimg\\home0"
   },
   "08f3050c-3918-422a-be48-17e3263d40f1": {
-    "asset": 1746658465172,
+    "asset": 1746662490438,
     "meta": 1746658465174,
-    "relativePath": "myimg\\index1"
+    "relativePath": "myimg\\rule"
   },
   "dfd4ef2e-97f1-4547-ace8-521f5f2a69b1": {
-    "asset": 1746659116117,
+    "asset": 1746662466515,
     "meta": 1746659116120,
-    "relativePath": "scripts\\index0"
-  },
-  "b133cad7-70a9-47c8-ae51-51502d1849be": {
-    "asset": 1746659133195,
-    "meta": 1746659133198,
-    "relativePath": "scripts\\index1"
-  },
-  "81a6003c-d0a8-4f27-81a9-c08fb14c6257": {
-    "asset": 1746660115166,
-    "meta": 1746660115169,
-    "relativePath": "myimg\\index2"
+    "relativePath": "scripts\\rule"
   },
   "b63c1861-b22d-476b-b160-ea5b3b5bb731": {
-    "asset": 1746660925183,
+    "asset": 1746661307875,
     "meta": 1746660925186,
-    "relativePath": "scripts\\index2"
+    "relativePath": "scripts\\comm"
   },
   "a6591678-6a27-4780-b57b-daebc3ed0a92": {
     "asset": 1746660993154,
     "meta": 1746660995529,
-    "relativePath": "scripts\\index2\\colorfonts.js"
+    "relativePath": "scripts\\comm\\colorfonts.js"
   },
   "1452b8de-1195-4087-a6b5-733fd521a74e": {
     "asset": 1746661360438,
     "meta": 1746661372991,
-    "relativePath": "scripts\\index2\\retu.js"
+    "relativePath": "scripts\\comm\\retu.js"
   },
   "c3aaf98d-e501-4917-a976-47ed88c3987c": {
     "asset": 1746663110616,
@@ -3338,5 +3328,40 @@
     "asset": 1746663858414,
     "meta": 1746663858544,
     "relativePath": "myimg\\home0\\home3.png"
+  },
+  "5bfcdea0-a382-4b85-9de3-daf26f70e303": {
+    "asset": 1746664282089,
+    "meta": 1746664282296,
+    "relativePath": "myimg\\rule\\rule2.png"
+  },
+  "3602d217-b470-4153-bbbb-f8df33e07636": {
+    "asset": 1746664282089,
+    "meta": 1746664282310,
+    "relativePath": "myimg\\rule\\rule1.png"
+  },
+  "e51e54c3-aab6-4d83-9a80-f4467fd20dad": {
+    "asset": 1746664602171,
+    "meta": 1746664615213,
+    "relativePath": "scripts\\rule\\rule.js"
+  },
+  "b0957692-f310-4a9e-b62d-2f07bab3015f": {
+    "asset": 1746665171958,
+    "meta": 1746665172092,
+    "relativePath": "myimg\\rule\\rule3.png"
+  },
+  "75868c76-078f-4161-9852-6007c13ed460": {
+    "asset": 1746665204239,
+    "meta": 1746665207774,
+    "relativePath": "scripts\\rule\\isshow.js"
+  },
+  "b2dba43e-2753-4ac3-9009-abeaa3010489": {
+    "asset": 1746665258970,
+    "meta": 1746665260944,
+    "relativePath": "scripts\\rule\\isclose.js"
+  },
+  "93ac4d26-815c-47db-a526-032a0902f5ad": {
+    "asset": 1746665660461,
+    "meta": 1746665660464,
+    "relativePath": "scripts\\load"
   }
 }
