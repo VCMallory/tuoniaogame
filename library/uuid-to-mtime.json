@@ -3265,8 +3265,8 @@
     "relativePath": "img\\myfriengline.png"
   },
   "67262b02-964f-4629-b4b8-d03c6f3ad758": {
-    "asset": 1746564100325,
-    "meta": 1746564100337,
+    "asset": 1746663886429,
+    "meta": 1746663886498,
     "relativePath": "scenes\\home.fire"
   },
   "3638f805-65aa-44e9-b859-71bf9f1674a9": {
@@ -3285,9 +3285,9 @@
     "relativePath": "myimg"
   },
   "626d24d7-99cc-445d-9e77-51be6b79ea6c": {
-    "asset": 1746658449061,
+    "asset": 1746662483485,
     "meta": 1746658449064,
-    "relativePath": "myimg\\index0"
+    "relativePath": "myimg\\home0"
   },
   "08f3050c-3918-422a-be48-17e3263d40f1": {
     "asset": 1746658465172,
@@ -3323,5 +3323,20 @@
     "asset": 1746661360438,
     "meta": 1746661372991,
     "relativePath": "scripts\\index2\\retu.js"
+  },
+  "c3aaf98d-e501-4917-a976-47ed88c3987c": {
+    "asset": 1746663110616,
+    "meta": 1746663110972,
+    "relativePath": "myimg\\home0\\home1.png"
+  },
+  "62ad9ad8-a927-4b5c-86f8-7d601542b2a2": {
+    "asset": 1746663110616,
+    "meta": 1746663111018,
+    "relativePath": "myimg\\home0\\home2.png"
+  },
+  "c18d22ff-be1d-44fd-94f9-e19a9ec99f83": {
+    "asset": 1746663858414,
+    "meta": 1746663858544,
+    "relativePath": "myimg\\home0\\home3.png"
   }
 }
