@@ -3225,8 +3225,8 @@
     "relativePath": "img\\myfriengline.png"
   },
   "67262b02-964f-4629-b4b8-d03c6f3ad758": {
-    "asset": 1746755315798,
-    "meta": 1746755315844,
+    "asset": 1746829720971,
+    "meta": 1746829721003,
     "relativePath": "scenes\\home.fire"
   },
   "3638f805-65aa-44e9-b859-71bf9f1674a9": {
@@ -3423,5 +3423,25 @@
     "asset": 1744425218000,
     "meta": 1746753199453,
     "relativePath": "myimg\\setting\\setupyltj.png"
+  },
+  "73cfbe79-6c84-4e21-a64b-b7a02d17dc07": {
+    "asset": 1746829172401,
+    "meta": 1746829172406,
+    "relativePath": "myimg\\task"
+  },
+  "73aec229-e61b-421e-948b-1954afb32a62": {
+    "asset": 1746829248641,
+    "meta": 1746829248877,
+    "relativePath": "myimg\\task\\tasks0.png"
+  },
+  "50ce583f-b689-4e1a-a11b-d1788edeb40d": {
+    "asset": 1746829248637,
+    "meta": 1746829248884,
+    "relativePath": "myimg\\task\\tasks1.png"
+  },
+  "7b8885d1-5abe-4438-85ea-b7c662e7f07c": {
+    "asset": 1746829248637,
+    "meta": 1746829248890,
+    "relativePath": "myimg\\task\\tasks2.png"
   }
 }
