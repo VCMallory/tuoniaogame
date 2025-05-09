@@ -3265,8 +3265,8 @@
     "relativePath": "img\\myfriengline.png"
   },
   "67262b02-964f-4629-b4b8-d03c6f3ad758": {
-    "asset": 1746668633912,
-    "meta": 1746668633923,
+    "asset": 1746750020053,
+    "meta": 1746750020071,
     "relativePath": "scenes\\home.fire"
   },
   "3638f805-65aa-44e9-b859-71bf9f1674a9": {
@@ -3363,5 +3363,60 @@
     "asset": 1746665660461,
     "meta": 1746665660464,
     "relativePath": "scripts\\load"
+  },
+  "267d98ba-d1e8-44fc-b09e-5cfd8af7b922": {
+    "asset": 1746749822152,
+    "meta": 1746749822156,
+    "relativePath": "myimg\\signin"
+  },
+  "738f0e27-d82d-476c-b1f9-c276d2c8a9ec": {
+    "asset": 1746749830160,
+    "meta": 1746749830339,
+    "relativePath": "myimg\\signin\\tesk1.png"
+  },
+  "2c95d341-92a7-4ed4-91d7-f30862dd6420": {
+    "asset": 1746749830160,
+    "meta": 1746749830344,
+    "relativePath": "myimg\\signin\\tesk2.png"
+  },
+  "445d4b36-8262-49d3-b110-dd7fc9c68ed8": {
+    "asset": 1746749830160,
+    "meta": 1746749830354,
+    "relativePath": "myimg\\signin\\tesk4.png"
+  },
+  "57c8fd70-7f3f-41f7-9c56-76fe0d5b1382": {
+    "asset": 1746749830160,
+    "meta": 1746749830360,
+    "relativePath": "myimg\\signin\\tesk0.png"
+  },
+  "bffb5d3d-c5cb-47ce-9ba7-48868e5e68ce": {
+    "asset": 1746749830162,
+    "meta": 1746749830402,
+    "relativePath": "myimg\\signin\\tesk3.png"
+  },
+  "0f7fc38b-3bbe-478e-bebe-318a56c5a863": {
+    "asset": 1746749830161,
+    "meta": 1746749830443,
+    "relativePath": "myimg\\signin\\tesk5.png"
+  },
+  "a487308f-30bd-4330-b24c-735163aff146": {
+    "asset": 1746749830163,
+    "meta": 1746749830452,
+    "relativePath": "myimg\\signin\\tesk7.png"
+  },
+  "c6e06823-2844-470c-afc2-0dc03738792f": {
+    "asset": 1746749830164,
+    "meta": 1746749830456,
+    "relativePath": "myimg\\signin\\tesk6.png"
+  },
+  "20b9d1c7-5ec2-4eae-b7e6-c17caba24f53": {
+    "asset": 1746749830165,
+    "meta": 1746749830510,
+    "relativePath": "myimg\\signin\\tesk8.png"
+  },
+  "2bf4bc2a-55ad-4a49-9687-22458fcf8f94": {
+    "asset": 1746749830168,
+    "meta": 1746749830531,
+    "relativePath": "myimg\\signin\\ruletesk.png"
   }
 }
