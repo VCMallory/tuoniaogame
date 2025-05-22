@@ -3225,8 +3225,8 @@
     "relativePath": "img\\myfriengline.png"
   },
   "67262b02-964f-4629-b4b8-d03c6f3ad758": {
-    "asset": 1746829720971,
-    "meta": 1746829721003,
+    "asset": 1747941256857,
+    "meta": 1747941256875,
     "relativePath": "scenes\\home.fire"
   },
   "3638f805-65aa-44e9-b859-71bf9f1674a9": {
@@ -3443,5 +3443,50 @@
     "asset": 1746829248637,
     "meta": 1746829248890,
     "relativePath": "myimg\\task\\tasks2.png"
+  },
+  "f6f811cc-77a6-4f99-b157-aa54dfda6225": {
+    "asset": 1747935922283,
+    "meta": 1747935922286,
+    "relativePath": "scripts\\sign"
+  },
+  "bd985256-3856-40f9-9002-a8717e74b1ab": {
+    "asset": 1747935938616,
+    "meta": 1747935949727,
+    "relativePath": "scripts\\sign\\signjs.js"
+  },
+  "70ad7be2-20ce-4340-97fa-3d9199640f62": {
+    "asset": 1747936034309,
+    "meta": 1747936040859,
+    "relativePath": "scripts\\sign\\isshowsign.js"
+  },
+  "a7280b19-72da-481f-9bb6-418abf15f031": {
+    "asset": 1747936640474,
+    "meta": 1747936643445,
+    "relativePath": "scripts\\sign\\isclosesign.js"
+  },
+  "12a92d5a-e585-433e-b643-34b6fc1572e9": {
+    "asset": 1747937391039,
+    "meta": 1747937391045,
+    "relativePath": "scripts\\setting"
+  },
+  "8bdb70d9-e1b3-46d9-be66-361c9539df2b": {
+    "asset": 1747937459936,
+    "meta": 1747937463501,
+    "relativePath": "scripts\\setting\\isshowset.js"
+  },
+  "1002e6d6-b58f-4352-8b23-b62327044fa0": {
+    "asset": 1747937611505,
+    "meta": 1747937613865,
+    "relativePath": "scripts\\setting\\iscloseset.js"
+  },
+  "a2f4235a-65bb-4b6d-937a-2e75772d8760": {
+    "asset": 1747940793375,
+    "meta": 1747940795911,
+    "relativePath": "scripts\\setting\\setchange.js"
+  },
+  "a7ec6c93-8647-4b99-904e-4433b50086d8": {
+    "asset": 1747941056908,
+    "meta": 1747941059128,
+    "relativePath": "scripts\\setting\\setchange1.js"
   }
 }

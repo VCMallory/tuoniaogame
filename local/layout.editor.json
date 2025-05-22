@@ -108,5 +108,7 @@
       "height": 564
     }
   },
-  "panelLabelWidth": {}
+  "panelLabelWidth": {
+    "inspector": "34.8571%"
+  }
 }
