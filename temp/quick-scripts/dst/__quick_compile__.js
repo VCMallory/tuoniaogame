@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/scripts/load/loadtextanimation":6,"./assets/scripts/rule/isshow":2,"./assets/scripts/rule/rule":1,"./assets/scripts/rule/isclose":3,"./assets/scripts/comm/retu":4,"./assets/scripts/comm/colorfonts":5},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/rule.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/isshow.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/isclose.js"},{"deps":{},"path":"preview-scripts/assets/scripts/comm/retu.js"},{"deps":{},"path":"preview-scripts/assets/scripts/comm/colorfonts.js"},{"deps":{},"path":"preview-scripts/assets/scripts/load/loadtextanimation.js"}];
+var scripts = [{"deps":{"./assets/scripts/comm/colorfonts":1,"./assets/scripts/load/loadtextanimation":2,"./assets/scripts/rule/isshow":3,"./assets/scripts/comm/retu":4,"./assets/scripts/rule/isclose":5,"./assets/scripts/rule/rule":6},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/comm/colorfonts.js"},{"deps":{},"path":"preview-scripts/assets/scripts/load/loadtextanimation.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/isshow.js"},{"deps":{},"path":"preview-scripts/assets/scripts/comm/retu.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/isclose.js"},{"deps":{},"path":"preview-scripts/assets/scripts/rule/rule.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 
