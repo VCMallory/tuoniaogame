@@ -3225,8 +3225,8 @@
     "relativePath": "img\\myfriengline.png"
   },
   "67262b02-964f-4629-b4b8-d03c6f3ad758": {
-    "asset": 1747941256857,
-    "meta": 1747941256875,
+    "asset": 1747986102716,
+    "meta": 1747986102740,
     "relativePath": "scenes\\home.fire"
   },
   "3638f805-65aa-44e9-b859-71bf9f1674a9": {
@@ -3488,5 +3488,70 @@
     "asset": 1747941056908,
     "meta": 1747941059128,
     "relativePath": "scripts\\setting\\setchange1.js"
+  },
+  "f565a251-3b27-40b2-a0ba-9dd05f8b81f0": {
+    "asset": 1747941446719,
+    "meta": 1747941446724,
+    "relativePath": "scripts\\task"
+  },
+  "de9199e9-f166-49ab-9c99-53a51288b61d": {
+    "asset": 1747941549479,
+    "meta": 1747941554984,
+    "relativePath": "scripts\\task\\isclosetask.js"
+  },
+  "619e31bc-37ab-4594-8d62-c70eda4ad038": {
+    "asset": 1747941517526,
+    "meta": 1747941555015,
+    "relativePath": "scripts\\task\\isshowtask.js"
+  },
+  "e22fe571-ee94-43a1-9b57-276287aadb5c": {
+    "asset": 1747941735159,
+    "meta": 1747941735164,
+    "relativePath": "myimg\\share"
+  },
+  "10fa5c5f-4aaf-49cf-b810-3adbb29a868a": {
+    "asset": 1747941741503,
+    "meta": 1747941741507,
+    "relativePath": "scripts\\share"
+  },
+  "1fd7bde9-3f70-4203-a841-653ba2868344": {
+    "asset": 1747943076310,
+    "meta": 1747943076370,
+    "relativePath": "myimg\\share\\share1.png"
+  },
+  "bea957d6-5550-4716-a887-ce39eebf9d44": {
+    "asset": 1747943076311,
+    "meta": 1747943076374,
+    "relativePath": "myimg\\share\\share0.png"
+  },
+  "ce2ffde3-623d-4b48-9d1b-c342c96a683a": {
+    "asset": 1747943654054,
+    "meta": 1747943656840,
+    "relativePath": "scripts\\share\\iscloseshare.js"
+  },
+  "f01da001-0007-466d-9484-db9b62bc84a8": {
+    "asset": 1747943633629,
+    "meta": 1747943656861,
+    "relativePath": "scripts\\share\\isshowshare.js"
+  },
+  "cf9641b0-4805-49df-a9e7-f3608a43e111": {
+    "asset": 1747985710364,
+    "meta": 1747985710368,
+    "relativePath": "scripts\\achiment"
+  },
+  "c63e3ed0-27c3-44f4-8025-06c76c8ea1b5": {
+    "asset": 1747985750530,
+    "meta": 1747985750534,
+    "relativePath": "myimg\\achievement"
+  },
+  "faf804c2-b886-4bb4-8cc3-159aeb2323b1": {
+    "asset": 1747985815811,
+    "meta": 1747985818463,
+    "relativePath": "scripts\\achiment\\iscloseachiment.js"
+  },
+  "959ff682-b643-4de7-b940-a7011d3933cd": {
+    "asset": 1747985796506,
+    "meta": 1747985818542,
+    "relativePath": "scripts\\achiment\\isshowachiment.js"
   }
 }

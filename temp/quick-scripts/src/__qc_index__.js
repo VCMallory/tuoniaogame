@@ -1,4 +1,6 @@
 
+require('./assets/scripts/achiment/iscloseachiment');
+require('./assets/scripts/achiment/isshowachiment');
 require('./assets/scripts/comm/colorfonts');
 require('./assets/scripts/comm/retu');
 require('./assets/scripts/load/loadtextanimation');
@@ -9,6 +11,10 @@ require('./assets/scripts/setting/iscloseset');
 require('./assets/scripts/setting/isshowset');
 require('./assets/scripts/setting/setchange');
 require('./assets/scripts/setting/setchange1');
+require('./assets/scripts/share/iscloseshare');
+require('./assets/scripts/share/isshowshare');
 require('./assets/scripts/sign/isclosesign');
 require('./assets/scripts/sign/isshowsign');
 require('./assets/scripts/sign/signjs');
+require('./assets/scripts/task/isclosetask');
+require('./assets/scripts/task/isshowtask');
