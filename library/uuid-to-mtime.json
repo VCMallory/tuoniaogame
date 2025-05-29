@@ -960,8 +960,8 @@
     "relativePath": "img\\loadimg4.png"
   },
   "d35f06d1-7a07-4731-8ab8-de986528768c": {
-    "asset": 1746665666934,
-    "meta": 1747932354923,
+    "asset": 1747985716033,
+    "meta": 1748551805997,
     "relativePath": "scripts"
   },
   "aa3cb457-ff57-4c85-b468-94a331da5f92": {
@@ -3240,8 +3240,8 @@
     "relativePath": "img\\sky.png"
   },
   "ef11f5a7-3ebc-4f99-a9b9-21d5a954d4bc": {
-    "asset": 1746829180986,
-    "meta": 1747932354919,
+    "asset": 1747985756064,
+    "meta": 1748551805995,
     "relativePath": "myimg"
   },
   "626d24d7-99cc-445d-9e77-51be6b79ea6c": {
@@ -3445,8 +3445,8 @@
     "relativePath": "myimg\\task\\tasks2.png"
   },
   "f6f811cc-77a6-4f99-b157-aa54dfda6225": {
-    "asset": 1747935922283,
-    "meta": 1747935922286,
+    "asset": 1747936487952,
+    "meta": 1748551806012,
     "relativePath": "scripts\\sign"
   },
   "bd985256-3856-40f9-9002-a8717e74b1ab": {
@@ -3465,8 +3465,8 @@
     "relativePath": "scripts\\sign\\isclosesign.js"
   },
   "12a92d5a-e585-433e-b643-34b6fc1572e9": {
-    "asset": 1747937391039,
-    "meta": 1747937391045,
+    "asset": 1747940890020,
+    "meta": 1748551806005,
     "relativePath": "scripts\\setting"
   },
   "8bdb70d9-e1b3-46d9-be66-361c9539df2b": {
@@ -3490,8 +3490,8 @@
     "relativePath": "scripts\\setting\\setchange1.js"
   },
   "f565a251-3b27-40b2-a0ba-9dd05f8b81f0": {
-    "asset": 1747941446719,
-    "meta": 1747941446724,
+    "asset": 1747941474579,
+    "meta": 1748551806014,
     "relativePath": "scripts\\task"
   },
   "de9199e9-f166-49ab-9c99-53a51288b61d": {
@@ -3505,13 +3505,13 @@
     "relativePath": "scripts\\task\\isshowtask.js"
   },
   "e22fe571-ee94-43a1-9b57-276287aadb5c": {
-    "asset": 1747941735159,
-    "meta": 1747941735164,
+    "asset": 1747943076325,
+    "meta": 1748551806000,
     "relativePath": "myimg\\share"
   },
   "10fa5c5f-4aaf-49cf-b810-3adbb29a868a": {
-    "asset": 1747941741503,
-    "meta": 1747941741507,
+    "asset": 1747943599485,
+    "meta": 1748551806007,
     "relativePath": "scripts\\share"
   },
   "1fd7bde9-3f70-4203-a841-653ba2868344": {
@@ -3535,8 +3535,8 @@
     "relativePath": "scripts\\share\\isshowshare.js"
   },
   "cf9641b0-4805-49df-a9e7-f3608a43e111": {
-    "asset": 1747985710364,
-    "meta": 1747985710368,
+    "asset": 1747985744039,
+    "meta": 1748551806002,
     "relativePath": "scripts\\achiment"
   },
   "c63e3ed0-27c3-44f4-8025-06c76c8ea1b5": {
