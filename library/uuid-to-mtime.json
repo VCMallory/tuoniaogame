@@ -3553,5 +3553,355 @@
     "asset": 1747985796506,
     "meta": 1747985818542,
     "relativePath": "scripts\\achiment\\isshowachiment.js"
+  },
+  "f9708671-c338-43d1-b63a-6cc1bfa36c35": {
+    "asset": 1746771424000,
+    "meta": 1748592583608,
+    "relativePath": "myimg\\achievement\\achcmnshd.png"
+  },
+  "90c6ef91-8ff9-4fca-825f-66640af5471e": {
+    "asset": 1746783333000,
+    "meta": 1748592583680,
+    "relativePath": "myimg\\achievement\\achbyyhd.png"
+  },
+  "9c778256-a247-44f3-9896-7c60ab43415b": {
+    "asset": 1746783333000,
+    "meta": 1748592583692,
+    "relativePath": "myimg\\achievement\\achbyywhd.png"
+  },
+  "67d1dece-1a66-455e-9db2-2b48029893ab": {
+    "asset": 1746766482000,
+    "meta": 1748592583698,
+    "relativePath": "myimg\\achievement\\achbg.png"
+  },
+  "f7dc478d-8cb4-432f-9a4c-403ef0bcfdb7": {
+    "asset": 1746771424000,
+    "meta": 1748592583841,
+    "relativePath": "myimg\\achievement\\achcmnswhd.png"
+  },
+  "fca56ea0-fa20-4196-ba86-5ed1825cfc7d": {
+    "asset": 1746768896000,
+    "meta": 1748592583846,
+    "relativePath": "myimg\\achievement\\achdjcqhd.png"
+  },
+  "b1b831ef-e211-4a09-b966-cd51bf026216": {
+    "asset": 1746768896000,
+    "meta": 1748592583851,
+    "relativePath": "myimg\\achievement\\achdjsthd.png"
+  },
+  "905bdef3-9237-4caa-a336-ee5aec6f6879": {
+    "asset": 1746768896000,
+    "meta": 1748592583858,
+    "relativePath": "myimg\\achievement\\achdjcqwhd.png"
+  },
+  "0b166730-e641-48e0-89cf-934e3f762f16": {
+    "asset": 1746768896000,
+    "meta": 1748592583900,
+    "relativePath": "myimg\\achievement\\achhyhd.png"
+  },
+  "a854db7a-e62e-4473-a3b8-d833baa22f2d": {
+    "asset": 1746771424000,
+    "meta": 1748592583912,
+    "relativePath": "myimg\\achievement\\achhdzjhd.png"
+  },
+  "86ccaba1-3076-4358-b2e9-1334a9cf6a66": {
+    "asset": 1746768896000,
+    "meta": 1748592583917,
+    "relativePath": "myimg\\achievement\\achdjstwhd.png"
+  },
+  "ce3cea72-176a-4181-a5e5-dbe2034f16d8": {
+    "asset": 1746771424000,
+    "meta": 1748592583922,
+    "relativePath": "myimg\\achievement\\achhdzjwhd.png"
+  },
+  "9c8c4986-960b-4f02-a509-84602b333310": {
+    "asset": 1746783333000,
+    "meta": 1748592584012,
+    "relativePath": "myimg\\achievement\\achjfsywhd.png"
+  },
+  "e184ca32-8277-4f50-88b1-14e2cdc0605a": {
+    "asset": 1746768896000,
+    "meta": 1748592584020,
+    "relativePath": "myimg\\achievement\\achlxqd.png"
+  },
+  "54bcdeea-e58b-45cc-946e-dc434b92758b": {
+    "asset": 1746783333000,
+    "meta": 1748592584024,
+    "relativePath": "myimg\\achievement\\achjfsyhd.png"
+  },
+  "a8000ff7-57cb-43d3-8091-323a037ed2f9": {
+    "asset": 1746783333000,
+    "meta": 1748592584030,
+    "relativePath": "myimg\\achievement\\achqrjhhd.png"
+  },
+  "9bdcce23-344e-4929-93d7-3bf0e77f95fb": {
+    "asset": 1746783333000,
+    "meta": 1748592584099,
+    "relativePath": "myimg\\achievement\\achqrjhwhd.png"
+  },
+  "286c0930-a26b-45df-aa43-b8f76a302b9d": {
+    "asset": 1746771424000,
+    "meta": 1748592584107,
+    "relativePath": "myimg\\achievement\\achrqdywhd.png"
+  },
+  "7a589f8c-158d-492b-9b7e-d7f79bab3d35": {
+    "asset": 1746771424000,
+    "meta": 1748592584118,
+    "relativePath": "myimg\\achievement\\achrqdyhe.png"
+  },
+  "3abd66f7-56bb-4a85-b5a8-31b51a59985d": {
+    "asset": 1746771425000,
+    "meta": 1748592584134,
+    "relativePath": "myimg\\achievement\\achsjxfhd.png"
+  },
+  "6d802e40-57bf-4430-9481-487ce9a1e47d": {
+    "asset": 1746771425000,
+    "meta": 1748592584153,
+    "relativePath": "myimg\\achievement\\achsjxfwhd.png"
+  },
+  "03e663c7-e07c-4ae2-b6e3-4a51722670ab": {
+    "asset": 1746783334000,
+    "meta": 1748592584169,
+    "relativePath": "myimg\\achievement\\achsylchd.png"
+  },
+  "df4b78bc-2acf-4911-9f6e-d981a0e423ed": {
+    "asset": 1746783333000,
+    "meta": 1748592584184,
+    "relativePath": "myimg\\achievement\\achsylcwhd.png"
+  },
+  "147bdba5-7a03-41a5-93e4-83da7a22eae9": {
+    "asset": 1746783334000,
+    "meta": 1748592584206,
+    "relativePath": "myimg\\achievement\\achsylghd.png"
+  },
+  "d23f69ce-1a08-4c6f-b8a6-03422c5962ff": {
+    "asset": 1746783334000,
+    "meta": 1748592584228,
+    "relativePath": "myimg\\achievement\\achsylgwhd.png"
+  },
+  "9a1696e2-1bac-4fe2-9c80-91579e7d653b": {
+    "asset": 1746768896000,
+    "meta": 1748592584258,
+    "relativePath": "myimg\\achievement\\achtddrhd.png"
+  },
+  "d8c7589a-3b56-46dc-adc6-9e3faa6a5115": {
+    "asset": 1746768897000,
+    "meta": 1748592584283,
+    "relativePath": "myimg\\achievement\\achtddrwhd.png"
+  },
+  "78dd4952-647c-4974-9b49-a3fb5807fcc5": {
+    "asset": 1746768897000,
+    "meta": 1748592584329,
+    "relativePath": "myimg\\achievement\\achtdgshd.png"
+  },
+  "b7419ff5-c86c-4e61-911b-b0b89ceaea6b": {
+    "asset": 1746768897000,
+    "meta": 1748592584468,
+    "relativePath": "myimg\\achievement\\achtdgswhd.png"
+  },
+  "5597561b-067a-483b-9132-cc95fa758539": {
+    "asset": 1746768897000,
+    "meta": 1748592584493,
+    "relativePath": "myimg\\achievement\\achtdsl.png"
+  },
+  "590da854-a044-44ff-97cd-a846a99f232b": {
+    "asset": 1746768897000,
+    "meta": 1748592584510,
+    "relativePath": "myimg\\achievement\\achtdxshd.png"
+  },
+  "360f58a7-b38d-4992-af65-13637538d082": {
+    "asset": 1746768897000,
+    "meta": 1748592584556,
+    "relativePath": "myimg\\achievement\\achtdxswhd.png"
+  },
+  "9a7ff45e-0fd3-4045-8fd8-c85af2b7d149": {
+    "asset": 1746766436000,
+    "meta": 1748592584607,
+    "relativePath": "myimg\\achievement\\achtextbg.png"
+  },
+  "127ae489-8c00-434a-9dce-f7b8eb941c84": {
+    "asset": 1748592526340,
+    "meta": 1748592584669,
+    "relativePath": "myimg\\backage"
+  },
+  "fe7038f4-4de8-411e-a709-6dd9e29c7456": {
+    "asset": 1746766695000,
+    "meta": 1748592584665,
+    "relativePath": "myimg\\achievement\\achtop.png"
+  },
+  "991a0b58-0916-4b7c-8679-c1f1352dbd8e": {
+    "asset": 1746767095000,
+    "meta": 1748592584689,
+    "relativePath": "myimg\\achievement\\achwen.png"
+  },
+  "09914ade-71b6-4eb2-b94f-5bda0efe2fce": {
+    "asset": 1746771425000,
+    "meta": 1748592584773,
+    "relativePath": "myimg\\achievement\\achyymyhe.png"
+  },
+  "c0f28994-275b-426f-8349-6faf171e8979": {
+    "asset": 1746749359000,
+    "meta": 1748592584840,
+    "relativePath": "myimg\\backage\\backagebanderbig.png"
+  },
+  "aaea3de9-35a8-46f0-942f-b197ea6f37aa": {
+    "asset": 1746771425000,
+    "meta": 1748592584873,
+    "relativePath": "myimg\\achievement\\achyymywhd.png"
+  },
+  "185bb82f-c95f-487f-b5db-44f1b1366e43": {
+    "asset": 1746749359000,
+    "meta": 1748592584895,
+    "relativePath": "myimg\\backage\\backagebanderdog.png"
+  },
+  "104a3644-4ae8-47e9-95a0-fd58894eded6": {
+    "asset": 1746749359000,
+    "meta": 1748592584960,
+    "relativePath": "myimg\\backage\\backagebandername.png"
+  },
+  "8ea7bd30-03e9-48e9-84f0-090bd6ca309e": {
+    "asset": 1746749359000,
+    "meta": 1748592585011,
+    "relativePath": "myimg\\backage\\backagebanderniao.png"
+  },
+  "f1b4aed5-ccc4-433c-9c40-bf778a986e3a": {
+    "asset": 1746749359000,
+    "meta": 1748592585140,
+    "relativePath": "myimg\\backage\\backagebandersmall.png"
+  },
+  "ef45ee1e-92fe-45bf-9116-3e2fbcc7e299": {
+    "asset": 1746749359000,
+    "meta": 1748592585184,
+    "relativePath": "myimg\\backage\\backagebg.png"
+  },
+  "6e70ab07-3dad-49cf-b8d4-7af5a4aad198": {
+    "asset": 1746749360000,
+    "meta": 1748592585440,
+    "relativePath": "myimg\\backage\\backagebg2.png"
+  },
+  "2af7f0fe-f9c5-4906-8d10-4514d4762803": {
+    "asset": 1746749360000,
+    "meta": 1748592585524,
+    "relativePath": "myimg\\backage\\backagebgtop.png"
+  },
+  "93e87c9b-1477-4c61-a1e1-e165bbcb871b": {
+    "asset": 1746749360000,
+    "meta": 1748592585639,
+    "relativePath": "myimg\\backage\\backagebottom.png"
+  },
+  "09fd39a5-7182-455e-a8c1-6e947457461f": {
+    "asset": 1746749360000,
+    "meta": 1748592585665,
+    "relativePath": "myimg\\backage\\backagebottomgift.png"
+  },
+  "1fbd6f62-e978-493c-9bfe-add250581e2f": {
+    "asset": 1746749361000,
+    "meta": 1748592585702,
+    "relativePath": "myimg\\backage\\backagebqk1.png"
+  },
+  "69d38f69-3897-433c-a66a-fe19765fea56": {
+    "asset": 1746749360000,
+    "meta": 1748592585707,
+    "relativePath": "myimg\\backage\\backagebqk.png"
+  },
+  "aad2be9e-2df2-4f95-8488-c1c2a995f071": {
+    "asset": 1746749361000,
+    "meta": 1748592585787,
+    "relativePath": "myimg\\backage\\backagebtn.png"
+  },
+  "bad46f72-9e13-46f7-a1d2-95dec363893e": {
+    "asset": 1746749361000,
+    "meta": 1748592585810,
+    "relativePath": "myimg\\backage\\backagedog.png"
+  },
+  "cb365cae-4325-43f1-9196-e372fd0f15c1": {
+    "asset": 1746749361000,
+    "meta": 1748592585831,
+    "relativePath": "myimg\\backage\\backagedog1.png"
+  },
+  "c7cdeb39-f53b-4298-9ead-0b4ba76caae6": {
+    "asset": 1746749361000,
+    "meta": 1748592585859,
+    "relativePath": "myimg\\backage\\backagejqqd.png"
+  },
+  "da0bfee1-49f9-44db-a4a5-05f5ab21f8a3": {
+    "asset": 1746749361000,
+    "meta": 1748592585995,
+    "relativePath": "myimg\\backage\\backageleft.png"
+  },
+  "8e3e2db6-ef6e-4560-ae25-3e7e2cd48144": {
+    "asset": 1746749361000,
+    "meta": 1748592586010,
+    "relativePath": "myimg\\backage\\backagejsdj.png"
+  },
+  "8be89f1e-3255-4245-a688-df81770d6d3e": {
+    "asset": 1746749361000,
+    "meta": 1748592586020,
+    "relativePath": "myimg\\backage\\backagenird.png"
+  },
+  "a8de1b68-5c62-448f-9068-e0b0a52e4139": {
+    "asset": 1746749361000,
+    "meta": 1748592586024,
+    "relativePath": "myimg\\backage\\backagejsdj1.png"
+  },
+  "f7f8817d-4ce1-4fe3-96ba-a388b9495fb5": {
+    "asset": 1746749362000,
+    "meta": 1748592586083,
+    "relativePath": "myimg\\backage\\backageright.png"
+  },
+  "3a58573d-5315-43c3-9957-3ccde426ac11": {
+    "asset": 1746749362000,
+    "meta": 1748592586092,
+    "relativePath": "myimg\\backage\\backagercdj.png"
+  },
+  "2c7399c7-60d6-4a0f-96a3-08e7f8be1847": {
+    "asset": 1746749362000,
+    "meta": 1748592586096,
+    "relativePath": "myimg\\backage\\backagenumber.png"
+  },
+  "1b494f48-ce85-49d2-8e10-277b803eb3c2": {
+    "asset": 1746749362000,
+    "meta": 1748592586103,
+    "relativePath": "myimg\\backage\\backagetipniao.png"
+  },
+  "1c2cfcb0-f5de-4cf4-a9fc-4813d2554c07": {
+    "asset": 1748592546131,
+    "meta": 1748592586213,
+    "relativePath": "myimg\\sharesuccess"
+  },
+  "ec49fd41-f079-4907-b806-9ef8142c7ee6": {
+    "asset": 1746749362000,
+    "meta": 1748592586209,
+    "relativePath": "myimg\\backage\\backagetsdj.png"
+  },
+  "80e92755-c093-45a2-8651-89a54fb037d6": {
+    "asset": 1746760688000,
+    "meta": 1748592586220,
+    "relativePath": "myimg\\backage\\click.png"
+  },
+  "c3c6f99a-7fcb-4b5a-8d76-e8cffbce2387": {
+    "asset": 1746749362000,
+    "meta": 1748592586226,
+    "relativePath": "myimg\\backage\\backagexyc.png"
+  },
+  "81124889-594f-4c47-a178-ce8a008bac4e": {
+    "asset": 1746749362000,
+    "meta": 1748592586252,
+    "relativePath": "myimg\\backage\\backagexyc1.png"
+  },
+  "676ca2e1-723a-4835-9234-6faefa173518": {
+    "asset": 1746717601000,
+    "meta": 1748592586352,
+    "relativePath": "myimg\\sharesuccess\\sharesuccess.png"
+  },
+  "7485c94c-a98b-49f7-9354-78a52fb4aadf": {
+    "asset": 1746717602000,
+    "meta": 1748592586356,
+    "relativePath": "myimg\\sharesuccess\\sharesuccesstop.png"
+  },
+  "9b11c2a8-9806-453f-be75-ae9049efabc4": {
+    "asset": 1746717601000,
+    "meta": 1748592586432,
+    "relativePath": "myimg\\sharesuccess\\sharesuccessbg.png"
   }
 }
