@@ -500,14 +500,9 @@
     "relativePath": "model\\primitives.fbx"
   },
   "f4d02be7-0031-475d-b628-bbd3572294ca": {
-    "asset": 1746662503737,
-    "meta": 1747932354921,
+    "asset": 1748716672790,
+    "meta": 1748716719742,
     "relativePath": "scenes"
-  },
-  "bcddc77a-aae2-49c9-8876-2fc7e7c0b6bb": {
-    "asset": 1746453432168,
-    "meta": 1746453432176,
-    "relativePath": "scenes\\index.fire"
   },
   "4da9d8d0-865b-4be5-a208-0c1aa418577b": {
     "asset": 1746753199113,
@@ -3224,11 +3219,6 @@
     "meta": 1746444153626,
     "relativePath": "img\\myfriengline.png"
   },
-  "67262b02-964f-4629-b4b8-d03c6f3ad758": {
-    "asset": 1747986102716,
-    "meta": 1747986102740,
-    "relativePath": "scenes\\home.fire"
-  },
   "3638f805-65aa-44e9-b859-71bf9f1674a9": {
     "asset": 1746562917419,
     "meta": 1746562917901,
@@ -3240,8 +3230,8 @@
     "relativePath": "img\\sky.png"
   },
   "ef11f5a7-3ebc-4f99-a9b9-21d5a954d4bc": {
-    "asset": 1747985756064,
-    "meta": 1748551805995,
+    "asset": 1748716692876,
+    "meta": 1748716719740,
     "relativePath": "myimg"
   },
   "626d24d7-99cc-445d-9e77-51be6b79ea6c": {
@@ -3539,11 +3529,6 @@
     "meta": 1748551806002,
     "relativePath": "scripts\\achiment"
   },
-  "c63e3ed0-27c3-44f4-8025-06c76c8ea1b5": {
-    "asset": 1747985750530,
-    "meta": 1747985750534,
-    "relativePath": "myimg\\achievement"
-  },
   "faf804c2-b886-4bb4-8cc3-159aeb2323b1": {
     "asset": 1747985815811,
     "meta": 1747985818463,
@@ -3553,5 +3538,15 @@
     "asset": 1747985796506,
     "meta": 1747985818542,
     "relativePath": "scripts\\achiment\\isshowachiment.js"
+  },
+  "bcddc77a-aae2-49c9-8876-2fc7e7c0b6bb": {
+    "asset": 1748716672790,
+    "meta": 1748716693681,
+    "relativePath": "scenes\\index.fire"
+  },
+  "67262b02-964f-4629-b4b8-d03c6f3ad758": {
+    "asset": 1748716672787,
+    "meta": 1748716693690,
+    "relativePath": "scenes\\home.fire"
   }
 }
